@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3837
+
+Here are some xptemplate snippets for Chicken Scheme meta files.
+
+For more information on Chicken Scheme meta files, see:
+
+  http://wiki.call-cc.org/eggs%20tutorial#the-setup-file
+
+and
+
+  http://wiki.call-cc.org/man/4/Extensions#procedures-and-macros-available-in-setup-scripts
+
+NOTE:  These snippets require the newest version of xptemplate from SVN or git.
+
